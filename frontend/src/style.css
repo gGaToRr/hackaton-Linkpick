@@ -1,0 +1,50 @@
+
+body {
+  margin:0;
+  font-family: Arial;
+  background:#0f172a;
+  color:white;
+}
+
+.page {
+  max-width:700px;
+  margin:auto;
+  padding:20px;
+}
+
+.panel {
+  margin-bottom:15px;
+}
+
+textarea {
+  width:100%;
+  height:80px;
+}
+
+.chat {
+  background:#020617;
+  height:300px;
+  padding:10px;
+  border-radius:10px;
+  overflow:auto;
+}
+
+.user {
+  text-align:right;
+  color:#38bdf8;
+  margin:5px;
+}
+
+.inputZone {
+  display:flex;
+  margin-top:10px;
+}
+
+input {
+  flex:1;
+  padding:10px;
+}
+
+button {
+  padding:10px;
+}
